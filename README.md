@@ -1,5 +1,5 @@
 # The Monty Hall Problem Simulator
-The Monty Hall Problem is a mathematical proof that somehow turns a 50/50 shot a winning a car into a 66% chance of winning a car. I intend to find that out by simulating 1 million runs (or however many I can without crashing my PC) of this Monty Hall game and seeing what the results show with my own eyes.
+The Monty Hall Problem is a mathematical proof that somehow turns a 50/50 shot a winning a car into a 66% chance of winning a car. I intend to sort out how it works by simulating a large number of runs of the Monty Hall game and seeing what the results show.
 
 ## Order of Events
 - Place the car (pick one of the total doors)
